@@ -1,6 +1,8 @@
 # bmi_calculator_us
+![PicsArt_05-31-01 51 50](https://user-images.githubusercontent.com/83079592/159474014-ccbd0b86-f673-445e-9ee4-90d1850291b3.jpg)
 
-A new Flutter application.
+to download app,<br/>
+visit:
 https://play.google.com/store/apps/details?id=com.unionsoftwareit.bmi_calculator_us
 ## Getting Started
 
